@@ -1,6 +1,6 @@
 body {
     font-family: 'poppins';
-    background-color: rgb(252, 213, 213);
+    background-color: #fcd5d5;
 }
 
 header{
@@ -38,8 +38,8 @@ h2 {
     margin-top: 5px;
     width: 100%;
     min-height: 500px;
-    background-color: rgb(255, 164, 164);
-    border: 2px solid #000;
+    background-color: #fcd5d5;
+    /* border: 2px solid #000; */
 }
 
 .container-mid {
